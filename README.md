@@ -1,5 +1,7 @@
 # Using Word2Vec to analyze Reddit Comments
 
+The Blog Post for this Repository can be viewed here on Medium: https://medium.com/ml-2-vec/using-word2vec-to-analyze-reddit-comments-28945d8cee57
+
 In this post, I am going to go over Word2Vec. I will talk about some background of what the algorithm is, and how it can be used to generate Word Vectors from. Then, I will walk through the code for training a Word2Vec model on the Reddit comments dataset, and exploring the results from it.
 
 What is Word2Vec?
